@@ -211,7 +211,7 @@ fun MainScreen(
                         onClick = onNavigateToLeaderboard,
                         shape = RoundedCornerShape(10.dp)
                     ) {
-                        Text(text = "Xem MXH", fontSize = 12.sp)
+                        Text(text = "Xem BXH", fontSize = 12.sp)
                     }
                 }
             }
